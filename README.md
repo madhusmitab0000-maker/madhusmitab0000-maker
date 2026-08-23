@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=MADHUSMITA%20BEHERA&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=59&descSize=17&animation=fadeIn&gradientColors=3A86FF,6F42C1,9B5DE5" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&text=MADHUSMITA%20BEHERA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence&descAlignY=59&descSize=18&animation=fadeIn&gradientColors=3A86FF,6F42C1,9B5DE5" width="100%">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=9B8AFB&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Data+Analytics+%7C+Business+Intelligence;Turning+Data+Into+Meaningful+Insights;Learning+Through+Real-World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=9B8AFB&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Data+Analytics+%7C+Business+Intelligence;Turning+Raw+Data+Into+Useful+Insights;Building+Practical+Analytics+Projects" />
 
 <br><br>
 
@@ -28,15 +28,13 @@
 
 ---
 
-## About Me
+## About
 
 I am **Madhusmita Behera**, an aspiring **Data Analyst and Business Intelligence enthusiast** currently pursuing a **Master of Science in Computer Science**.
 
-I enjoy working across the complete analytics workflow — from data cleaning and preprocessing to exploratory analysis, visualization, reporting and dashboard development.
+I work across the analytics workflow — data cleaning, preprocessing, exploratory analysis, visualization, dashboard development, reporting and data-driven problem solving.
 
-My main tools are **Python, SQL, Power BI, Tableau and Microsoft Excel**, with practical exposure to machine learning, statistical analysis and data-driven reporting.
-
-I focus on accuracy, analytical thinking, problem solving and continuous improvement.
+My core toolkit includes **Python, SQL, Power BI, Tableau and Microsoft Excel**, with hands-on experience in practical analytics projects and reporting workflows.
 
 ---
 
@@ -44,41 +42,69 @@ I focus on accuracy, analytical thinking, problem solving and continuous improve
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&width=900&text=DATA%20ANALYSIS&fontSize=16&fontColor=ffffff&animation=fadeIn&color=0:1B2A52,100:00B8FF" width="90%">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&width=900&text=BUSINESS%20INTELLIGENCE&fontSize=16&fontColor=ffffff&animation=fadeIn&color=0:2B145A,100:00C6D7" width="90%">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&width=900&text=MACHINE%20LEARNING&fontSize=16&fontColor=ffffff&animation=fadeIn&color=0:123A45,100:00BFD7" width="90%">
+
+</div>
+
+---
+
+# Analytics Workflow
+
+<div align="center">
+
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="20%">
 
-### DATA ANALYSIS
+**01**
 
-<img src="https://img.shields.io/badge/Data%20Cleaning-3A86FF?style=for-the-badge">
-<br><br>
-<img src="https://img.shields.io/badge/EDA-3776AB?style=for-the-badge">
-<br><br>
-<img src="https://img.shields.io/badge/Statistical%20Analysis-4C78A8?style=for-the-badge">
+<br>
+
+Data Collection
 
 </td>
+<td align="center" width="20%">
 
-<td width="33%" align="center">
+**02**
 
-### BUSINESS INTELLIGENCE
+<br>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<br><br>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-<br><br>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+Data Cleaning
 
 </td>
+<td align="center" width="20%">
 
-<td width="33%" align="center">
+**03**
 
-### MACHINE LEARNING
+<br>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<br><br>
-<img src="https://img.shields.io/badge/KNN-6F42C1?style=for-the-badge">
-<br><br>
-<img src="https://img.shields.io/badge/Recommendation-9B5DE5?style=for-the-badge">
+Exploratory Analysis
+
+</td>
+<td align="center" width="20%">
+
+**04**
+
+<br>
+
+Visualization
+
+</td>
+<td align="center" width="20%">
+
+**05**
+
+<br>
+
+Insights
 
 </td>
 </tr>
@@ -90,13 +116,17 @@ I focus on accuracy, analytical thinking, problem solving and continuous improve
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=700&color=7A8CA5&center=true&vCenter=true&width=900&lines=DATA+%3E+PROCESS+%3E+VISUALIZE+%3E+INTERPRET;RAW+DATA+%3E+ACTIONABLE+INSIGHTS;LEARN+%3E+BUILD+%3E+ANALYZE+%3E+IMPROVE" />
+<img src="https://img.shields.io/badge/Data%20Cleaning-3A86FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/EDA-4A90E2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Visualization-6F42C1?style=for-the-badge">
+<img src="https://img.shields.io/badge/Dashboards-8A63D2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Insights-9B5DE5?style=for-the-badge">
 
 </div>
 
 ---
 
-# Core Technology Stack
+# Core Stack
 
 <div align="center">
 
@@ -111,7 +141,7 @@ I focus on accuracy, analytical thinking, problem solving and continuous improve
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-<img src="https://img.shields.io/badge/Seaborn-4C72A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-4C72A8?style=for-the-badge">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
 <br><br>
@@ -126,13 +156,13 @@ I focus on accuracy, analytical thinking, problem solving and continuous improve
 
 ---
 
-# Analytics Capabilities
+# What I Work With
 
 <table>
 <tr>
 <td width="50%">
 
-### Data Preparation
+### Data Analytics
 
 * Data Cleaning
 * Data Processing
@@ -144,16 +174,17 @@ I focus on accuracy, analytical thinking, problem solving and continuous improve
 
 <td width="50%">
 
-### Visualization & Reporting
+### Business Intelligence
 
-* KPI Dashboards
-* Interactive Reports
 * Power BI
 * Tableau
 * Microsoft Excel
+* KPI Reporting
+* Dashboard Development
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -185,40 +216,47 @@ I focus on accuracy, analytical thinking, problem solving and continuous improve
 
 # Featured Projects
 
-## Clipkart Sales Analytics Dashboard
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Power BI | Power Query | Data Analytics**
+### Clipkart Sales Analytics
 
-A business intelligence project focused on transforming raw e-commerce sales data into a structured and interactive dashboard.
+**Power BI · Power Query · Data Analytics**
 
-### Key Work
+Built an interactive e-commerce analytics dashboard focused on revenue, orders, quantity, average order value and product performance.
 
-* Cleaned and transformed raw sales data using Power Query
-* Built an interactive Power BI dashboard
-* Developed 5+ KPIs
-* Analyzed revenue, orders, quantity and average order value
-* Studied top products, categories and city-level performance
-* Generated data-driven insights for business decisions
+**Highlights**
 
-[Explore Project](https://github.com/madhusmitab0000-maker)
+* 5+ KPIs
+* Category analysis
+* Product performance
+* City-level analysis
+* Regional insights
+* Price-revenue analysis
 
----
+</td>
 
-## Movie Recommendation System
+<td width="50%" valign="top">
 
-**Python | KNN | Pandas | Scikit-learn | External API**
+### Movie Recommendation System
 
-A machine-learning based recommendation system designed to generate personalized movie suggestions.
+**Python · KNN · Scikit-learn · API**
 
-### Key Work
+Developed a personalized movie recommendation system using similarity-based machine learning.
 
-* Processed 4,000+ movie records
-* Implemented K-Nearest Neighbors
-* Performed data preprocessing and similarity analysis
-* Integrated an external movie API
-* Generates Top 5 personalized movie recommendations
+**Highlights**
 
-[Explore Project](https://github.com/madhusmitab0000-maker)
+* 4,000+ movie records
+* KNN recommendation model
+* Data preprocessing
+* Similarity analysis
+* External movie API
+* Top 5 recommendations
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -230,15 +268,15 @@ A machine-learning based recommendation system designed to generate personalized
 
 `May 2025 — June 2025`
 
-Worked on practical data analytics, reporting and dashboard development tasks.
+Worked on data analysis, reporting and dashboard-related tasks.
 
 ### Contributions
 
 * Processed and organized 5,000+ records
-* Maintained data accuracy, consistency and quality
-* Prepared scheduled analytical reports
+* Focused on accuracy, consistency and data quality
+* Prepared scheduled reports
 * Developed interactive dashboards
-* Communicated findings through structured reports and presentations
+* Communicated analytical findings through reports and presentations
 * Collaborated with a cross-functional team of 4+ members
 
 ---
@@ -266,32 +304,60 @@ Worked on practical data analytics, reporting and dashboard development tasks.
 <div align="center">
 
 <img src="https://img.shields.io/badge/Data%20Analytics-CTTC-6F42C1?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/AI--Powered%20Data%20Analytics-CodeWithHarry-3A86FF?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Power%20BI-SkillCourse-F2C811?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/SQL-SkillCourse-4479A1?style=for-the-badge">
 
 </div>
 
 ---
 
-# Learning Path
+# Courses
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-|       AREA       | CURRENT FOCUS                        |
-| :--------------: | :----------------------------------- |
-|      Python      | Data Analysis & Programming          |
-|        SQL       | Analytical Queries                   |
-|     Power BI     | Interactive Dashboards               |
-|      Tableau     | Data Visualization                   |
-|       Excel      | Reporting & Analysis                 |
-| Machine Learning | Recommendation & Predictive Analysis |
+**Ultimate Job-Ready AI-Powered Data Analytics Course**
 
-</div>
+CodeWithHarry
+
+</td>
+
+<td width="50%">
+
+**30 Days Power BI Micro Course**
+
+SkillCourse
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+**30 Days SQL Micro Course**
+
+SkillCourse
+
+</td>
+
+<td width="50%">
+
+**30 Days Python Micro Course**
+
+SkillCourse
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Current Learning
+# Current Focus
 
 <div align="center">
 
@@ -332,7 +398,7 @@ Worked on practical data analytics, reporting and dashboard development tasks.
 </a>
 
 <a href="mailto:madhusmitab0000@gmail.com">
-<img src="https://img.shields.io/badge/Email-madhusmitab0000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/madhusmitab0000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
@@ -348,8 +414,3 @@ Baripada, Odisha, India
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&gradientColors=3A86FF,6F42C1,9B5DE5" width="100%">
 
 </div>
-```
-
-Isme tum screenshot wala **middle visual section** aur zyada polished hai, especially `What I Do`, capability grid aur `Learning Path`. Resume ke project, internship aur skills ko hi use kiya hai.
-
-Ek small correction: maine `seaborn` badge ka URL safe version se rakha hai; agar GitHub par kisi badge ka icon load na ho, usko remove kar denge.
